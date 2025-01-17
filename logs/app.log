@@ -1,0 +1,14 @@
+2025-01-17T12:27:36.007Z [ERROR]: /api/v1/auth/login POST "password" length must be at least 6 characters long
+2025-01-17T12:27:42.808Z [ERROR]: /api/v1/auth/login POST Illegal arguments: string, undefined
+2025-01-17T12:28:55.834Z [ERROR]: /api/v1/auth/login POST Illegal arguments: string, undefined
+2025-01-17T12:34:52.801Z [ERROR]: /api/v1/auth/login POST Illegal arguments: string, undefined
+2025-01-17T12:39:33.793Z [ERROR]: /api/v1/auth/login POST Illegal arguments: string, undefined
+2025-01-17T12:40:38.390Z [ERROR]: /api/v1/auth/login POST Illegal arguments: string, undefined
+2025-01-17T12:41:14.817Z [ERROR]: /api/v1/auth/login POST Illegal arguments: string, undefined
+2025-01-17T12:43:52.840Z [ERROR]: /api/v1/auth/login POST Illegal arguments: string, undefined
+2025-01-17T12:48:26.732Z [ERROR]: /api/v1/student POST "schoolId" is required
+2025-01-17T12:49:10.926Z [ERROR]: /api/v1/student POST null value in column "organizationId" of relation "StudentOrganizations" violates not-null constraint
+2025-01-17T12:50:51.754Z [ERROR]: /api/v1/student?organizationId=ac44c255-a1fd-4a07-a9a7-3872a2294001 POST insert or update on table "StudentOrganizations" violates foreign key constraint "StudentOrganizations_organizationId_fkey"
+2025-01-17T12:51:22.908Z [ERROR]: /api/v1/student?organizationId=ac44c255-a1fd-4a07-a9a7-3872a2294001 POST insert or update on table "StudentOrganizations" violates foreign key constraint "StudentOrganizations_organizationId_fkey"
+2025-01-17T13:04:14.681Z [ERROR]: /api/v1/student?schoolId=ac44c255-a1fd-4a07-a9a7-3872a2294003 GET School not found
+2025-01-17T13:05:25.591Z [ERROR]: /api/v1/student/1d03ed2e-1aab-40d5-9054-5b6c49504d7c PUT "schoolId" is not allowed
