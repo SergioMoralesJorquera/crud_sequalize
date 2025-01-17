@@ -34,7 +34,7 @@ Proxima mejora migration y seeders.
 Para instalar y configurar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/SergioMoralesJorquera/crud_sequalize.git
     
 2. Navega aldirectorio del proyecto:
     cd tu-repositorio
